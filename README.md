@@ -1,4 +1,4 @@
-# Assignment-2-first-bit-solution
+# Assignment-1-first-bit-solution
 
 Hey this is my 2nd assignment of first-bit-solution<br>
 <hr>
